@@ -26,7 +26,7 @@
       </ul>
       <p><em>Feel free to browse my work!</em></p>
     </td>
-    <td width="180px" align="right" valign="middle">
+    <td width="200px" align="right" valign="middle">
       <img src="icon1.jpg" alt="About Me Icon" width="160px" style="border-radius: 15px; display: block;">
     </td>
   </tr>
@@ -61,7 +61,7 @@
         <li>🤖 Robotics & Hardware Tinkering</li>
       </ul>
     </td>
-    <td width="180px" align="right" valign="middle">
+    <td width="200px" align="right" valign="middle">
       <img src="icon2.jpg" alt="Skills Icon" width="160px" style="border-radius: 15px; display: block;">
     </td>
   </tr>
