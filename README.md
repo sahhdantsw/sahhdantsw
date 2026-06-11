@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="banner.png" width="100%">
+<img src="./images/banner.png" width="100%"/>
 
-# Hi, I'm Sarah :D
+# Hi, I'm Sarah 👋
 
 ### she/her
 
@@ -12,19 +12,25 @@
 
 ---
 
-#  About Me
+# 🌸 About Me
 
 I'm a final-year high school student studying programming, with experience in **HTML/CSS, SQL, Python and C#**.
 
 When I'm not at school, I usually spend my free time tinkering with electronics, reading, playing video games, or inventing new ways to grow in the world of programming and technology!
 
-I'm especially interested in accessibility, assistive technology, robotics, neuroscience and educational technology.
+I'm especially interested in:
 
-Feel free to browse my work and follow my journey as I continue learning and building new things!
+* 🧠 Neuroscience
+* ♿ Accessibility Technology
+* 🤖 Robotics
+* 💻 Programming
+* 🎮 Gaming
+
+Feel free to browse my work!
 
 ---
 
-#  Current Project
+# 🧩 Current Project
 
 ## Painel das Emoções
 
@@ -33,18 +39,18 @@ A technology-assisted project designed to help children with autism communicate 
 This project combines programming, accessibility and educational support to create a more inclusive experience for children who benefit from visual communication tools.
 
 <div align="center">
-<img src="icon1.png" width="250">
+
+<img src="./images/icon1.png" width="250"/>
+
 </div>
 
 ---
 
-#  Skills
+# 🛠 Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cs,html,css,mysql,git,vscode" />
+<img src="https://skillicons.dev/icons?i=python,cs,html,css,mysql,git,vscode"/>
 </p>
-
-### Languages & Technologies
 
 * Python
 * C#
@@ -60,41 +66,47 @@ This project combines programming, accessibility and educational support to crea
 
 <div align="center">
 
-![Sarah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahhdantsw\&show_icons=true\&theme=default)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahhdantsw&show_icons=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahhdantsw\&layout=compact\&theme=default)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahhdantsw&layout=compact"/>
 
 </div>
 
 ---
 
-#  Interests
-
-*  Neuroscience
-*  Robotics
-*  Programming
-*  Gaming
-*  Reading
-*  Electronics
-*  Accessibility Technology
+# ✨ Interests
 
 <div align="center">
-<img src="icon2.png" width="180">
+
+<img src="./images/icon2.png" width="180"/>
+
 </div>
+
+* Programming
+* Electronics
+* Neuroscience
+* Robotics
+* Accessibility
+* Reading
+* Video Games
 
 ---
 
-# Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
-<a href="https://github.com/sahhdantsw">GitHub Profile</a>
+
+<a href="https://github.com/sahhdantsw">
+GitHub Profile
+</a>
+
 </p>
 
 ---
 
 <div align="center">
 
-###  Favorite Quote
+### 💭 Favorite Quote
 
 *"Technology becomes meaningful when it helps people."*
 
