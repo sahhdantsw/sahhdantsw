@@ -27,8 +27,8 @@
       </ul>
       <p><em>Feel free to browse my work!</em></p>
     </td>
-    <td width="140px" align="right" valign="middle">
-      <img src="icon1.jpg" alt="About Me Icon" width="120px" style="display: block;">
+    <td width="180px" align="right" valign="middle">
+      <img src="icon1.jpg" alt="About Me Icon" width="160px" style="display: block;">
     </td>
   </tr>
 </table>
@@ -44,12 +44,9 @@ This project combines programming, accessibility and educational support to crea
 
 ---
 
-<table border="0" cellpadding="0" cellspacing="0">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="140px" valign="top">
-      <img src="icon2.jpg" alt="Skills Icon" width="120px" style="display: block;">
-    </td>
-    <td valign="top">
+    <td valign="middle">
       <h3>🛠 Skills</h3>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -62,6 +59,9 @@ This project combines programming, accessibility and educational support to crea
         <li>🗄️ Databases</li>
         <li>🤖 Robotics</li>
       </ul>
+    </td>
+    <td width="180px" align="right" valign="middle">
+      <img src="icon2.jpg" alt="Skills Icon" width="160px" style="display: block;">
     </td>
   </tr>
 </table>
