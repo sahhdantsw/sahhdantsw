@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" alt="Sarah's Banner" width="100%">
-</p>
-
-<p align="center">
-  <img src="icon1.jpg" alt="Sarah's Icon" width="130px" style="border-radius: 50%;">
+  <img src="banner.jpg" alt="Sarah's Banner" width="40%">
 </p>
 
 <h1 align="center">Hi, I'm Sarah 👋</h1>
@@ -15,19 +11,27 @@
 
 ---
 
-### 🌸 About Me
-I'm a final-year high school student studying programming, with experience in **HTML/CSS, SQL, Python and C#**.
-
-When I'm not at school, I usually spend my free time tinkering with electronics, reading, playing video games, or inventing new ways to grow in the world of programming and technology!
-
-I'm especially interested in:
-* 🧠 **Neuroscience**
-* ♿ **Accessibility Technology**
-* 🤖 **Robotics**
-* 💻 **Programming**
-* 🎮 **Gaming**
-
-*Feel free to browse my work!*
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="140px" valign="top">
+      <img src="icon1.jpg" alt="About Me Icon" width="120px" style="display: block;">
+    </td>
+    <td valign="top">
+      <h3>🌸 About Me</h3>
+      <p>I'm a final-year high school student studying programming, with experience in <strong>HTML/CSS, SQL, Python and C#</strong>.</p>
+      <p>When I'm not at school, I usually spend my free time tinkering with electronics, reading, playing video games, or inventing new ways to grow in the world of programming and technology!</p>
+      <p>I'm especially interested in:</p>
+      <ul>
+        <li>🧠 <strong>Neuroscience</strong></li>
+        <li>♿ <strong>Accessibility Technology</strong></li>
+        <li>🤖 <strong>Robotics</strong></li>
+        <li>💻 <strong>Programming</strong></li>
+        <li>🎮 <strong>Gaming</strong></li>
+      </ul>
+      <p><em>Feel free to browse my work!</em></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -40,17 +44,27 @@ This project combines programming, accessibility and educational support to crea
 
 ---
 
-### 🛠 Skills
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL">
-</p>
-
-* 🗄️ Databases
-* 🤖 Robotics
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="140px" valign="top">
+      <img src="icon2.jpg" alt="Skills Icon" width="120px" style="display: block;">
+    </td>
+    <td valign="top">
+      <h3>🛠 Skills</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+        <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL">
+      </p>
+      <ul>
+        <li>🗄️ Databases</li>
+        <li>🤖 Robotics</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -70,7 +84,7 @@ This project combines programming, accessibility and educational support to crea
 ---
 
 ### 💭 Favorite Quote
-> "Technology becomes meaningful when it helps people."
+<blockquote>"Technology becomes meaningful when it helps people."</blockquote>
 
 ---
 
