@@ -11,12 +11,9 @@
 
 ---
 
-<table border="0" cellpadding="0" cellspacing="0">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="140px" valign="top">
-      <img src="icon1.jpg" alt="About Me Icon" width="120px" style="display: block;">
-    </td>
-    <td valign="top">
+    <td valign="middle">
       <h3>🌸 About Me</h3>
       <p>I'm a final-year high school student studying programming, with experience in <strong>HTML/CSS, SQL, Python and C#</strong>.</p>
       <p>When I'm not at school, I usually spend my free time tinkering with electronics, reading, playing video games, or inventing new ways to grow in the world of programming and technology!</p>
@@ -29,6 +26,9 @@
         <li>🎮 <strong>Gaming</strong></li>
       </ul>
       <p><em>Feel free to browse my work!</em></p>
+    </td>
+    <td width="140px" align="right" valign="middle">
+      <img src="icon1.jpg" alt="About Me Icon" width="120px" style="display: block;">
     </td>
   </tr>
 </table>
