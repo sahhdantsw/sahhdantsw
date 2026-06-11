@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sarah 👋</h1>
+<h1 align="center">heyy, I'm Sarah :D</h1>
 
 <p align="center">
   <code><strong>she/her</strong></code> • <em>A programming student who wants to graduate in neuroscience someday and sleep issue :D</em>
@@ -8,11 +8,11 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=F7B7C8" width="80%">
 </p>
 
-<p align="center">🌷 ⋆ ˚｡⋆୨୧˚ soft coding space ˚୨୧⋆｡˚ ⋆ 🌷</p>
+<p align="center">🌷 ⋆ ˚｡⋆୨୧˚ welcome to space ˚୨୧⋆｡˚ ⋆ 🌷</p>
 
 ---
 
-## 🌸 About Me
+## about me
 
 > <sub>♡ learning, creating and growing with technology ♡</sub>
 
@@ -20,15 +20,15 @@ I'm a final-year high school student studying programming, with experience in **
 
 When I'm not at school, I usually spend my free time tinkering with electronics, reading, playing video games, or inventing new ways to grow in the world of programming and technology!
 
-### 🎯 Special Interests
+### special interests
 
-- 🧠 **Neuroscience**
-- ♿ **Accessibility Technology**
-- 🤖 **Robotics**
-- 💻 **Programming**
-- 🎮 **Gaming**
+- **neuroscience**
+- **accessibility technology**
+- **robotics**
+- **programming**
+- **gaming**
 
-*Feel free to browse my work!*
+*feel free to browse my work!*
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F4A6C1" width="65%">
@@ -36,9 +36,9 @@ When I'm not at school, I usually spend my free time tinkering with electronics,
 
 ---
 
-## 🧩 Current Project
+## current project
 
-### **Painel das Emoções**
+### **painel das emoções**
 
 > A technology-assisted project designed to help children with autism communicate emotions in a simple, visual and accessible way.
 >
@@ -48,9 +48,9 @@ When I'm not at school, I usually spend my free time tinkering with electronics,
 
 ---
 
-## 🛠 Skills
+## skills
 
-### 💻 Technologies & Languages
+### technologies & languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-F4A6C1?style=flat-square&logo=python&logoColor=333333" alt="Python">
@@ -60,10 +60,10 @@ When I'm not at school, I usually spend my free time tinkering with electronics,
   <img src="https://img.shields.io/badge/SQL-D98BA6?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL">
 </p>
 
-### ⚙️ Other Fields
+### other fields
 
-- 🗄️ Databases & Data Structure
-- 🤖 Robotics & Hardware Tinkering
+- Databases 
+- Robotics 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F7B7C8" width="65%">
@@ -71,7 +71,7 @@ When I'm not at school, I usually spend my free time tinkering with electronics,
 
 ---
 
-## 📊 GitHub Stats
+## github stats
 
 <p align="center">
   <img 
@@ -82,12 +82,12 @@ When I'm not at school, I usually spend my free time tinkering with electronics,
 
 ---
 
-## ✨ Interests & Hobbies
+## interests & hobbies
 
-- 💻 Programming & Electronics
-- 🧠 Neuroscience & Accessibility
-- 🤖 Robotics
-- 📚 Reading & 🎮 Video Games
+- Programming & Electronics
+- Neuroscience & Accessibility
+- Robotics
+- Reading & Games
 
 ---
 
