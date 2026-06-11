@@ -1,4 +1,12 @@
-<table style="border: none;">
+<h1 align="center">Hi, I'm Sarah 👋</h1>
+
+<p align="center">
+  <code><strong>she/her</strong></code> • <em>A programming student who wants to graduate in neuroscience someday and sleep issue :D</em>
+</p>
+
+---
+
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td width="500px" valign="middle" style="border: none;">
       <h2>🌸 About Me</h2>
@@ -29,7 +37,20 @@
     </td>
   </tr>
 </table>
-<table style="border: none;">
+
+---
+
+## 🧩 Current Project
+
+### **Painel das Emoções**
+
+> A technology-assisted project designed to help children with autism communicate emotions in a simple, visual and accessible way.
+>
+> This project combines programming, accessibility and educational support to create a more inclusive experience for children who benefit from visual communication tools.
+
+---
+
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td width="500px" valign="middle" style="border: none;">
       <h2>🛠 Skills</h2>
@@ -61,3 +82,32 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahhdantsw&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Sarah's GitHub Stats" />
+</p>
+
+---
+
+## ✨ Interests & Hobbies
+
+- 💻 Programming & Electronics
+- 🧠 Neuroscience & Accessibility
+- 🤖 Robotics
+- 📚 Reading & 🎮 Video Games
+
+---
+
+## 💭 Favorite Quote
+
+<blockquote>
+  <p align="center"><em>"Technology becomes meaningful when it helps people."</em></p>
+</blockquote>
+
+---
+
+<p align="center">⭐ Thanks for visiting my profile! ⭐</p>
