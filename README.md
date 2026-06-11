@@ -74,7 +74,10 @@ When I'm not at school, I usually spend my free time tinkering with electronics,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahhdantsw&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Sarah's GitHub Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sahhdantsw&show_icons=true&count_private=true&bg_color=fff5f8&title_color=d98ba6&text_color=6b4f5f&icon_color=f4a6c1&border_color=f7b7c8" 
+    alt="Sarah's GitHub Stats" 
+  />
 </p>
 
 ---
