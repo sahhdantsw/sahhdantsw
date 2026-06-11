@@ -28,7 +28,7 @@
     </td>
     <td width="40px"></td>
     <td width="160px" align="right" valign="middle">
-      <img src="icon1.jpg" alt="About Me Icon" width="160px" style="border-radius: 15px; display: block;">
+      <img src="icon1novo.jpg" alt="About Me Icon" width="160px" style="border-radius: 15px; display: block;">
     </td>
   </tr>
 </table>
@@ -64,7 +64,7 @@
     </td>
     <td width="40px"></td>
     <td width="160px" align="right" valign="middle">
-      <img src="icon2.jpg" alt="Skills Icon" width="160px" style="border-radius: 15px; display: block;">
+      <img src="icon2novo.jpg" alt="Skills Icon" width="160px" style="border-radius: 15px; display: block;">
     </td>
   </tr>
 </table>
