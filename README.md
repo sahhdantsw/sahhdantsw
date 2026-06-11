@@ -6,9 +6,7 @@
 
 ---
 
-<p align="right">
-  <img src="icon1novo.png" alt="About Me Icon" width="160px">
-</p>
+<img src="icon1novo.png" alt="About Me Icon" width="160px" align="right">
 
 ## 🌸 About Me
 
@@ -40,9 +38,7 @@ When I'm not at school, I usually spend my free time tinkering with electronics,
 
 ---
 
-<p align="right">
-  <img src="icon2novo.png" alt="Skills Icon" width="160px">
-</p>
+<img src="icon2novo.png" alt="Skills Icon" width="160px" align="right">
 
 ## 🛠 Skills
 
