@@ -1,121 +1,77 @@
-<div align="center">
+<p align="center">
+  <img src="banner.jpg" alt="Sarah's Banner" width="100%">
+</p>
 
-<img src="./images/banner.png" width="100%"/>
+<p align="center">
+  <img src="icon1.jpg" alt="Sarah's Icon" width="130px" style="border-radius: 50%;">
+</p>
 
-# Hi, I'm Sarah 👋
+<h1 align="center">Hi, I'm Sarah 👋</h1>
 
-### she/her
-
-*A programming student who wants to graduate in neuroscience someday and sleep issue :D*
-
-</div>
+<p align="center">
+  <strong>she/her</strong><br>
+  <em>A programming student who wants to graduate in neuroscience someday and sleep issue :D</em>
+</p>
 
 ---
 
-# 🌸 About Me
-
+### 🌸 About Me
 I'm a final-year high school student studying programming, with experience in **HTML/CSS, SQL, Python and C#**.
 
 When I'm not at school, I usually spend my free time tinkering with electronics, reading, playing video games, or inventing new ways to grow in the world of programming and technology!
 
 I'm especially interested in:
+* 🧠 **Neuroscience**
+* ♿ **Accessibility Technology**
+* 🤖 **Robotics**
+* 💻 **Programming**
+* 🎮 **Gaming**
 
-* 🧠 Neuroscience
-* ♿ Accessibility Technology
-* 🤖 Robotics
-* 💻 Programming
-* 🎮 Gaming
-
-Feel free to browse my work!
+*Feel free to browse my work!*
 
 ---
 
-# 🧩 Current Project
+### 🧩 Current Project
 
-## Painel das Emoções
-
+#### **Painel das Emoções**
 A technology-assisted project designed to help children with autism communicate emotions in a simple, visual and accessible way.
 
 This project combines programming, accessibility and educational support to create a more inclusive experience for children who benefit from visual communication tools.
 
-<div align="center">
-
-<img src="./images/icon1.png" width="250"/>
-
-</div>
-
 ---
 
-# 🛠 Skills
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cs,html,css,mysql,git,vscode"/>
+### 🛠 Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL">
 </p>
 
-* Python
-* C#
-* HTML
-* CSS
-* SQL
-* Databases
-* Robotics
+* 🗄️ Databases
+* 🤖 Robotics
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahhdantsw&show_icons=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahhdantsw&layout=compact"/>
-
-</div>
-
----
-
-# ✨ Interests
-
-<div align="center">
-
-<img src="./images/icon2.png" width="180"/>
-
-</div>
-
-* Programming
-* Electronics
-* Neuroscience
-* Robotics
-* Accessibility
-* Reading
-* Video Games
-
----
-
-# 📫 Connect With Me
-
+### 📊 GitHub Stats
 <p align="center">
-
-<a href="https://github.com/sahhdantsw">
-GitHub Profile
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=sahhdantsw&show_icons=true&theme=radial&hide_border=true" alt="Sarah's GitHub Stats" />
 </p>
 
 ---
 
-<div align="center">
+### ✨ Interests
+* 💻 Programming & Electronics
+* 🧠 Neuroscience & Accessibility
+* 🤖 Robotics
+* 📚 Reading & 🎮 Video Games
+
+---
 
 ### 💭 Favorite Quote
-
-*"Technology becomes meaningful when it helps people."*
-
-</div>
+> "Technology becomes meaningful when it helps people."
 
 ---
 
-<div align="center">
-
-⭐ Thanks for visiting my profile!
-
-</div>
+<p align="center">⭐ Thanks for visiting my profile!</p>
