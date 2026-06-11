@@ -10,9 +10,9 @@
 
 ---
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="75%" valign="middle">
+    <td width="500px" valign="middle">
       <h2>🌸 About Me</h2>
       <p>I'm a final-year high school student studying programming, with experience in <strong>HTML/CSS, SQL, Python and C#</strong>.</p>
       <p>When I'm not at school, I usually spend my free time tinkering with electronics, reading, playing video games, or inventing new ways to grow in the world of programming and technology!</p>
@@ -26,7 +26,8 @@
       </ul>
       <p><em>Feel free to browse my work!</em></p>
     </td>
-    <td width="25%" align="right" valign="middle">
+    <td width="40px"></td>
+    <td width="160px" align="right" valign="middle">
       <img src="icon1.jpg" alt="About Me Icon" width="160px" style="border-radius: 15px; display: block;">
     </td>
   </tr>
@@ -43,9 +44,9 @@
 
 ---
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="75%" valign="middle">
+    <td width="500px" valign="middle">
       <h2>🛠 Skills</h2>
       <h3>💻 Technologies & Languages</h3>
       <p align="left">
@@ -61,7 +62,8 @@
         <li>🤖 Robotics & Hardware Tinkering</li>
       </ul>
     </td>
-    <td width="25%" align="right" valign="middle">
+    <td width="40px"></td>
+    <td width="160px" align="right" valign="middle">
       <img src="icon2.jpg" alt="Skills Icon" width="160px" style="border-radius: 15px; display: block;">
     </td>
   </tr>
