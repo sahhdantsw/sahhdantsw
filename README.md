@@ -31,9 +31,7 @@
     <td width="30px" style="border: none;"></td>
 
     <td width="180px" align="center" valign="middle" style="border: none;">
-      <div style="width: 160px; height: 160px; display: flex; align-items: center; justify-content: center;">
-        <img src="icon1novo.png" alt="About Me Icon" width="140px">
-      </div>
+      <img src="icon1novo.png" alt="About Me Icon" width="145px" style="display: block; margin: auto;">
     </td>
   </tr>
 </table>
@@ -76,9 +74,7 @@
     <td width="30px" style="border: none;"></td>
 
     <td width="180px" align="center" valign="middle" style="border: none;">
-      <div style="width: 160px; height: 160px; display: flex; align-items: center; justify-content: center;">
-        <img src="icon2novo.png" alt="Skills Icon" width="140px">
-      </div>
+      <img src="icon2novo.png" alt="Skills Icon" width="145px" style="display: block; margin: auto;">
     </td>
   </tr>
 </table>
