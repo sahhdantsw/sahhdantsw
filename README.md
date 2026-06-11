@@ -4,11 +4,17 @@
   <code><strong>she/her</strong></code> • <em>A programming student who wants to graduate in neuroscience someday and sleep issue :D</em>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=F7B7C8" width="80%">
+</p>
+
+<p align="center">🌷 ⋆ ˚｡⋆୨୧˚ soft coding space ˚୨୧⋆｡˚ ⋆ 🌷</p>
+
 ---
 
-<img src="icon1novo.png" alt="About Me Icon" width="160px" align="right">
-
 ## 🌸 About Me
+
+> <sub>♡ learning, creating and growing with technology ♡</sub>
 
 I'm a final-year high school student studying programming, with experience in **HTML/CSS, SQL, Python and C#**.
 
@@ -24,7 +30,9 @@ When I'm not at school, I usually spend my free time tinkering with electronics,
 
 *Feel free to browse my work!*
 
-<br clear="right">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F4A6C1" width="65%">
+</p>
 
 ---
 
@@ -36,11 +44,9 @@ When I'm not at school, I usually spend my free time tinkering with electronics,
 >
 > This project combines programming, accessibility and educational support to create a more inclusive experience for children who benefit from visual communication tools.
 
+<p align="center">♡ ୨୧ ♡</p>
+
 ---
-
-<br><br>
-
-<img src="icon2novo.png" alt="Skills Icon" width="160px" align="right">
 
 ## 🛠 Skills
 
@@ -59,7 +65,9 @@ When I'm not at school, I usually spend my free time tinkering with electronics,
 - 🗄️ Databases & Data Structure
 - 🤖 Robotics & Hardware Tinkering
 
-<br clear="right">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F7B7C8" width="65%">
+</p>
 
 ---
 
@@ -88,4 +96,4 @@ When I'm not at school, I usually spend my free time tinkering with electronics,
 
 ---
 
-<p align="center">⭐ Thanks for visiting my profile! ⭐</p>
+<p align="center">୨୧ Thanks for visiting my profile! ୨୧</p>
