@@ -84,19 +84,19 @@ When I'm not at school, I usually spend my free time tinkering with electronics,
 
 ## interests & hobbies
 
-- Programming & Electronics
-- Neuroscience & Accessibility
-- Robotics
-- Reading & Games
+- programming & electronics
+- neuroscience & accessibility
+- robotics
+- reading & games
 
 ---
 
-## 💭 Favorite Quote
+## favorite quote
 
 <blockquote>
-  <p align="center"><em>"Technology becomes meaningful when it helps people."</em></p>
+  <p align="center"><em>"technology is anything that wasn't around when you were born."</em></p>
 </blockquote>
 
 ---
 
-<p align="center">୨୧ Thanks for visiting my profile! ୨୧</p>
+<p align="center">୨୧ thanks for visiting my profile! ୨୧</p>
