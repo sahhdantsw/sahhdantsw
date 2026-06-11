@@ -38,6 +38,8 @@ When I'm not at school, I usually spend my free time tinkering with electronics,
 
 ---
 
+<br><br>
+
 <img src="icon2novo.png" alt="Skills Icon" width="160px" align="right">
 
 ## 🛠 Skills
