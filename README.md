@@ -8,7 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=F7B7C8" width="80%">
 </p>
 
-<p align="center">🌷 ⋆ ˚｡⋆୨୧˚ welcome to space ˚୨୧⋆｡˚ ⋆ 🌷</p>
+<p align="center"> ⋆ ˚｡⋆୨୧˚ welcome to space ˚୨୧⋆｡˚ ⋆ </p>
 
 ---
 
