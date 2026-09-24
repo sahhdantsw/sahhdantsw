@@ -25,7 +25,6 @@ When I'm not at university, I usually spend my free time experimenting with elec
 * **medical technology**
 * **robotics**
 * **programming**
-* **gaming**
 
 *feel free to check out my projects!*
 
