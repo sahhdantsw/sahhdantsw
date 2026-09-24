@@ -16,19 +16,18 @@
 
 > <sub>♡ learning, creating and growing with technology ♡</sub>
 
-I'm a final-year high school student studying programming, with experience in **HTML/CSS, SQL, Python and C#**.
+I'm a first-year **Computer Engineering student** with experience in **HTML/CSS, SQL, Python, C# and Omnis**.
 
-When I'm not at school, I usually spend my free time tinkering with electronics, reading, playing video games, or inventing new ways to grow in the world of programming and technology!
+When I'm not at university, I usually spend my free time experimenting with electronics, reading, gaming, or coming up with new ways to grow in the world of programming and technology!
 
 ### special interests
 
-- **neuroscience**
-- **accessibility technology**
-- **robotics**
-- **programming**
-- **gaming**
+* **medical technology**
+* **robotics**
+* **programming**
+* **gaming**
 
-*feel free to browse my work!*
+*feel free to check out my projects!*
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F4A6C1" width="65%">
