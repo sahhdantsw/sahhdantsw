@@ -1,7 +1,7 @@
 <h1 align="center">heyy, I'm Sarah :D</h1>
 
 <p align="center">
-  <code><strong>she/her</strong></code> • <em>A programming student who wants to graduate in neuroscience someday :D</em>
+  <code><strong>she/her</strong></code> • <em>A computer engineering student who loves dreaming :D</em>
 </p>
 
 <p align="center">
