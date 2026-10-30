@@ -34,7 +34,7 @@ When I'm not at university, I usually spend my free time experimenting with elec
 
 ---
 
-## current project
+## projects
 
 ### **painel das emoções**
 
@@ -42,7 +42,21 @@ When I'm not at university, I usually spend my free time experimenting with elec
 >
 > This project combines programming, accessibility and educational support to create a more inclusive experience for children who benefit from visual communication tools.
 
+### [**VALORANT Game Changers Tracker**](https://github.com/sahhdantsw/valorant-game-changers-tracker)
+
+> A Python desktop app for following VALORANT Game Changers teams, checking match schedules, and receiving email reminders for selected teams.
+>
+> The app interface is in Portuguese.
+
+### [**Geração Eleita**](https://github.com/sahhdantsw/Chosen-Generation-Geracao-Eleita)
+
+> A community app for sharing reflections, following people, and tracking Bible reading progress.
+
 <p align="center">♡ ୨୧ ♡</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F4A6C1" width="65%">
+</p>
 
 ---
 
@@ -60,8 +74,8 @@ When I'm not at university, I usually spend my free time experimenting with elec
 
 ### other fields
 
-- Databases 
-- Robotics 
+- Databases
+- Robotics
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F7B7C8" width="65%">
@@ -72,9 +86,9 @@ When I'm not at university, I usually spend my free time experimenting with elec
 ## github stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sahhdantsw&show_icons=true&count_private=true&bg_color=fff5f8&title_color=d98ba6&text_color=6b4f5f&icon_color=f4a6c1&border_color=f7b7c8" 
-    alt="Sarah's GitHub Stats" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sahhdantsw&show_icons=true&count_private=true&bg_color=fff5f8&title_color=d98ba6&text_color=6b4f5f&icon_color=f4a6c1&border_color=f7b7c8"
+    alt="Sarah's GitHub Stats"
   />
 </p>
 
