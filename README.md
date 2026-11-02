@@ -1,14 +1,14 @@
 <h1 align="center">heyy, I'm Sarah :D</h1>
 
 <p align="center">
-<code><strong>she/her</strong></code> • <em>A computer engineering student who loves coding random things :D</em>
+<code><strong>she/her</strong></code> • <em>A computer engineering student who loves coding random things </em>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=F7B7C8" width="80%">
 </p>
 
-<p align="center"> ⋆ ˚｡⋆୨୧˚ welcome to space ˚୨୧⋆｡˚ ⋆ </p>
+<p align="center"> ⋆ ˚｡⋆୨୧˚ welcome to my space ˚୨୧⋆｡˚ ⋆ </p>
 
 ---
 
