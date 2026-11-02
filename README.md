@@ -48,13 +48,13 @@ When I'm not at university, I usually spend my free time experimenting with elec
 
 ## other projects
 
-### <a href="https://github.com/sahhdantsw/valorant-game-changers-tracker" style="color:#E8A4B8;"><strong>VALORANT Game Changers Tracker</strong></a>
+### [![VALORANT Game Changers Tracker](https://img.shields.io/badge/VALORANT_Game_Changers_Tracker-F4A6C1?style=flat-square&labelColor=F4A6C1&logoColor=6B4F5F)](https://github.com/sahhdantsw/valorant-game-changers-tracker)
 
 > A Python desktop app for following VALORANT Game Changers teams, checking match schedules, and receiving email reminders for selected teams.
 >
 > The app interface is in Portuguese.
 
-### <a href="https://github.com/sahhdantsw/Chosen-Generation-Geracao-Eleita" style="color:#E8A4B8;"><strong>Geração Eleita</strong></a>
+### [![Geração Eleita](https://img.shields.io/badge/Gera%C3%A7%C3%A3o_Eleita-F7B7C8?style=flat-square&labelColor=F7B7C8&logoColor=6B4F5F)](https://github.com/sahhdantsw/Chosen-Generation-Geracao-Eleita)
 
 > A community app for sharing reflections, following people, and tracking Bible reading progress.
 
