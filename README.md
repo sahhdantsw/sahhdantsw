@@ -58,6 +58,12 @@ When I'm not at university, I usually spend my free time experimenting with elec
 
 > A community app for sharing reflections, following people, and tracking Bible reading progress.
 
+### [![Pixel Precision](https://img.shields.io/badge/Pixel_Precision-F4A6C1?style=flat-square&labelColor=F4A6C1&logoColor=6B4F5F)](https://github.com/sahhdantsw/Pixel-Precision)
+
+> A lightweight 2D aim trainer built with Python and Flet. Customize your crosshair and sensitivity, practice on moving targets, track your progress, and export monthly charts.
+>
+> The app supports English and Brazilian Portuguese.
+
 <p align="center">♡ ୨୧ ♡</p>
 
 ---
