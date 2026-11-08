@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarah</h1>
 
-<h3 align="center">Computer Engineering Student & Software Developer</h3>
+<h3 align="center">Computer Engineering Student </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sahhdantsw&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
