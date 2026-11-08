@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarah</h1>
 
-<h3 align="center">Computer Engineering Student </h3>
+<h3 align="center">Computer Engineering Student & Software Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sahhdantsw&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
@@ -10,7 +10,7 @@
 
 - 🌱 I'm currently improving my skills in **C#, C++, Python, HTML, PHP, JavaScript and Omnis**
 - 🤖 I have hands-on experience with **robotics**
-- 💡 I build practical applications with a focus on accessibility and education
+- 💡 I build practical applications and I am able to work on both **front-end and back-end**
 - 📫 How to reach me: **sarahdantas981@gmail.com**
 
 ---
