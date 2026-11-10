@@ -1,4 +1,4 @@
-<h1 align="center">heyy, I'm Sarah :D</h1>
+<h1 align="center">heyy 👋, I'm Sarah </h1>
 
 <p align="center">
 <code><strong>she/her</strong></code> • <em>A computer engineering student who loves coding random things </em>
