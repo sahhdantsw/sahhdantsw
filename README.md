@@ -8,13 +8,13 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=F7B7C8" width="80%">
 </p>
 
-<p align="center"> ⋆ ˚｡⋆୨୧˚ welcome to my space ˚୨୧⋆｡˚ ⋆ </p>
+<p align="center">  welcome to my space  </p>
 
 ---
 
 ## about me
 
-> <sub>♡ learning, creating and growing with technology ♡</sub>
+> <sub> learning, creating and growing with technology </sub>
 
 I'm a first-year **Computer Engineering student** with experience in **HTML/CSS, SQL, Python, C# and Omnis**.
 
@@ -42,7 +42,6 @@ When I'm not at university, I usually spend my free time experimenting with elec
 >
 > This project combines programming, accessibility and educational support to create a more inclusive experience for children who benefit from visual communication tools.
 
-<p align="center">♡ ୨୧ ♡</p>
 
 ---
 
@@ -64,7 +63,7 @@ When I'm not at university, I usually spend my free time experimenting with elec
 >
 > The app supports English and Brazilian Portuguese.
 
-<p align="center">♡ ୨୧ ♡</p>
+
 
 ---
 
@@ -108,6 +107,6 @@ When I'm not at university, I usually spend my free time experimenting with elec
 
 ---
 
-<p align="center">୨୧ thanks for visiting my profile! ୨୧</p>
+<p align="center"> thanks for visiting my profile! </p>
 
 
